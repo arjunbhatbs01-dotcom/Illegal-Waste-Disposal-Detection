@@ -1,2 +1,4 @@
 # Illegal-Waste-Disposal-Detection
-Built an end-to-end system to detect illegal waste dumping from CCTV footage. Converted annotations from JSON to YOLO format, trained custom detection models, and optimized the pipeline for accurate, real-time identification to support cleaner and safer environments.
+I built an end-to-end system to detect illegal waste dumping using CCTV footage, inspired by the waste management challenges commonly seen across Indian cities and towns. The project focuses on identifying roadside dumping, open land disposal, and public-area violations that often go unnoticed. I worked hands-on with real-world data, converting annotations from JSON to YOLO format to make the data usable for training custom models.
+
+The model was trained and fine-tuned to handle practical Indian conditions such as low-quality cameras, uneven lighting, crowded streets, and unstructured surroundings. This solution is designed to support local authorities and municipal bodies by enabling faster identification of violations, promoting accountability, and contributing toward cleaner cities in line with the Swachh Bharat mission.
